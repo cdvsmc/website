@@ -1,5 +1,5 @@
 ---
-title: Guía de Ejemplo
+title: Guía de ejemplo
 description: Una guía en mi nuevo sitio de Starlight Docs.
 ---
 
