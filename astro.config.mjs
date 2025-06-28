@@ -41,7 +41,8 @@ export default defineConfig({
 					items: [
 						// Cada elemento aquí es una entrada en el menú de navegación.
 						{
-							label: 'Example Guide',	translations: { es: 'Guía de ejemplo' },
+							label: 'Guía de ejemplo', 
+							translations: { es: 'Guía de ejemplo' },
 							slug: 'guias/ejemplo'
 						},
 					],
